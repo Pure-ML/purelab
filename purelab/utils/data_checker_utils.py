@@ -154,7 +154,7 @@ def load_data(task='classification'):
     
     return df, label_column 
 
-def save_results_to_json(results, output_path=None, issue_type=""):
+def save_results_to_json(results, dataset_name, output_path=None, issue_type=""):
     """Save analysis results to a JSON file."""
     try:
         if output_path is None:
@@ -163,31 +163,61 @@ def save_results_to_json(results, output_path=None, issue_type=""):
             if not os.path.exists(results_dir):
                 os.makedirs(results_dir)
             
-            # Generate default filename with timestamp
+            # Create subdirectory for this dataset if it doesn't exist
+            dataset_dir = os.path.join(results_dir, dataset_name)
+            if not os.path.exists(dataset_dir):
+                os.makedirs(dataset_dir)
+            
+            # Generate filename with timestamp
             timestamp = pd.Timestamp.now().strftime("%Y%m%d_%H%M%S")
-            output_path = os.path.join(results_dir, f"results_{issue_type}_{timestamp}.json")
+            output_path = os.path.join(dataset_dir, f"{issue_type}_{timestamp}.json")
+        
+        # Map issue types to their Cleanlab column names
+        issue_type_mapping = {
+            "label_classification": "label",
+            "label_regression": "label",
+            "outlier_classification": "outlier",
+            "outlier_regression": "outlier",
+            "duplicate_classification": "near_duplicate",
+            "duplicate_regression": "near_duplicate",
+            "non_iid_classification": "non_iid",
+            "non_iid_regression": "non_iid"
+        }
+        
+        base_issue_type = issue_type_mapping.get(issue_type, issue_type.split('_')[0])
+        issue_column = f"is_{base_issue_type}_issue"
+        score_column = f"{base_issue_type}_score"
         
         # Convert results to JSON-serializable format
         json_results = {
             "metadata": {
                 "timestamp": pd.Timestamp.now().isoformat(),
+                "dataset": dataset_name,
                 "issue_type": issue_type
             },
             "summary": {
-                "total_issues": len(results[results[f'is_{issue_type}_issue']])
+                "total_issues": len(results[results[issue_column]])
             },
             "issues": []
         }
         
         # Add detailed issue information
-        for idx in results[results[f'is_{issue_type}_issue']].index:
+        for idx in results[results[issue_column]].index:
+            # Get the row data
+            row_data = results.loc[idx].to_dict()
+            
+            # Convert any numpy or pandas types to Python native types
+            row_data = {k: convert_to_serializable(v) for k, v in row_data.items()}
+            
+            # Create the issue data dictionary
             issue_data = {
                 "index": int(idx),
-                f"{issue_type}_score": float(results.loc[idx, f'{issue_type}_score'])
+                f"{base_issue_type}_score": float(results.loc[idx, score_column]),
+                "row_data": row_data
             }
             
             # Add near_duplicate_sets for duplicate issues
-            if issue_type == "near_duplicate" and "near_duplicate_sets" in results.columns:
+            if base_issue_type == "near_duplicate" and "near_duplicate_sets" in results.columns:
                 sets = results.loc[idx, "near_duplicate_sets"]
                 if isinstance(sets, list):
                     issue_data["near_duplicate_sets"] = [int(x) for x in sets]
@@ -205,80 +235,18 @@ def save_results_to_json(results, output_path=None, issue_type=""):
     except Exception as e:
         print(f"\nError saving results to JSON: {str(e)}")
 
-def apply_fixes(df, all_issues, issue_type):
-    """Apply user-selected fixes to the dataset."""
-    if len(all_issues[all_issues[f'is_{issue_type}_issue']]) == 0:
-        return df
-    
-    print(f"\nWould you like to apply fixes for {issue_type} issues?")
-    print("1. Apply all suggested fixes")
-    print("2. Select specific fixes to apply")
-    print("3. Skip fixes")
-    
-    choice = input("Enter your choice (1-3): ").strip()
-    
-    if choice == '1':
-        # Apply all fixes
-        df_fixed = df.copy()
-        issues = all_issues[all_issues[f'is_{issue_type}_issue']]
-        
-        if issue_type == "near_duplicate":
-            # Keep only one instance from each duplicate set
-            for idx in issues.index:
-                if isinstance(issues.loc[idx, "near_duplicate_sets"], list):
-                    df_fixed = df_fixed.drop(issues.loc[idx, "near_duplicate_sets"])
-        
-        elif issue_type == "outlier":
-            # Remove outliers
-            df_fixed = df_fixed.drop(issues.index)
-        
-        elif issue_type == "label":
-            # Update labels with predicted values
-            for idx in issues.index:
-                df_fixed.loc[idx, issues.loc[idx, "predicted_label"]] = issues.loc[idx, "predicted_label"]
-        
-        print(f"\nApplied {len(issues)} fixes")
-        return df_fixed
-    
-    elif choice == '2':
-        # Let user select specific fixes
-        df_fixed = df.copy()
-        issues = all_issues[all_issues[f'is_{issue_type}_issue']]
-        
-        for idx in issues.index:
-            print(f"\nIssue at row {idx}:")
-            print(df.iloc[idx])
-            
-            if issue_type == "near_duplicate":
-                if isinstance(issues.loc[idx, "near_duplicate_sets"], list):
-                    print("Duplicate rows:", issues.loc[idx, "near_duplicate_sets"])
-            elif issue_type == "label":
-                print(f"Predicted label: {issues.loc[idx, 'predicted_label']}")
-            
-            apply = input("Apply fix for this issue? (y/n): ").strip().lower()
-            if apply == 'y':
-                if issue_type == "near_duplicate":
-                    if isinstance(issues.loc[idx, "near_duplicate_sets"], list):
-                        df_fixed = df_fixed.drop(issues.loc[idx, "near_duplicate_sets"])
-                elif issue_type == "outlier":
-                    df_fixed = df_fixed.drop(idx)
-                elif issue_type == "label":
-                    df_fixed.loc[idx, issues.loc[idx, "predicted_label"]] = issues.loc[idx, "predicted_label"]
-        
-        return df_fixed
-    
-    return df 
-
-def save_fixed_dataset(df_fixed, original_path):
-    """Save the fixed dataset."""
-    save = input("\nWould you like to save the fixed dataset? (y/n): ").strip().lower()
-    if save == 'y':
-        # Generate default filename with timestamp
-        timestamp = pd.Timestamp.now().strftime("%Y%m%d_%H%M%S")
-        default_path = f"fixed_dataset_{timestamp}.csv"
-        
-        custom_path = input(f"Enter custom file path (or press Enter for default: {default_path}): ").strip()
-        output_path = custom_path if custom_path else default_path
-        
-        df_fixed.to_csv(output_path, index=False)
-        print(f"\nFixed dataset saved to: {output_path}") 
+def convert_to_serializable(obj):
+    """Convert numpy/pandas types to Python native types for JSON serialization."""
+    if isinstance(obj, (np.integer, np.int64)):
+        return int(obj)
+    elif isinstance(obj, (np.floating, np.float64)):
+        return float(obj)
+    elif isinstance(obj, (np.ndarray, list)):
+        return [convert_to_serializable(x) for x in obj]
+    elif isinstance(obj, (pd.Timestamp, pd._libs.tslibs.timestamps.Timestamp)):
+        return obj.isoformat()
+    elif isinstance(obj, dict):
+        return {k: convert_to_serializable(v) for k, v in obj.items()}
+    elif pd.isna(obj):
+        return None
+    return obj 

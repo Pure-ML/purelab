@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "timestamp": "2025-01-30T10:52:33.334504",
+    "dataset": "cars",
+    "issue_type": "duplicate_regression"
+  },
+  "summary": {
+    "total_issues": 8
+  },
+  "issues": [
+    {
+      "index": 45,
+      "near_duplicate_score": 0.10326788129772979,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.10326788129772979,
+        "near_duplicate_sets": [
+          426
+        ],
+        "distance_to_nearest_neighbor": 0.22167654551361574
+      }
+    },
+    {
+      "index": 223,
+      "near_duplicate_score": 0.071450560801266,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.071450560801266,
+        "near_duplicate_sets": [
+          878
+        ],
+        "distance_to_nearest_neighbor": 0.15076637465625908
+      }
+    },
+    {
+      "index": 426,
+      "near_duplicate_score": 0.10326788129772979,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.10326788129772979,
+        "near_duplicate_sets": [
+          45
+        ],
+        "distance_to_nearest_neighbor": 0.22167654551361574
+      }
+    },
+    {
+      "index": 520,
+      "near_duplicate_score": 0.06078773034374085,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.06078773034374085,
+        "near_duplicate_sets": [
+          980
+        ],
+        "distance_to_nearest_neighbor": 0.12754507322873945
+      }
+    },
+    {
+      "index": 702,
+      "near_duplicate_score": 0.09224846671768494,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.09224846671768494,
+        "near_duplicate_sets": [
+          723
+        ],
+        "distance_to_nearest_neighbor": 0.196837107200614
+      }
+    },
+    {
+      "index": 723,
+      "near_duplicate_score": 0.09224846671768494,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.09224846671768494,
+        "near_duplicate_sets": [
+          702
+        ],
+        "distance_to_nearest_neighbor": 0.196837107200614
+      }
+    },
+    {
+      "index": 878,
+      "near_duplicate_score": 0.071450560801266,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.071450560801266,
+        "near_duplicate_sets": [
+          223
+        ],
+        "distance_to_nearest_neighbor": 0.15076637465625908
+      }
+    },
+    {
+      "index": 980,
+      "near_duplicate_score": 0.06078773034374085,
+      "row_data": {
+        "is_near_duplicate_issue": true,
+        "near_duplicate_score": 0.06078773034374085,
+        "near_duplicate_sets": [
+          520
+        ],
+        "distance_to_nearest_neighbor": 0.12754507322873945
+      }
+    }
+  ]
+}

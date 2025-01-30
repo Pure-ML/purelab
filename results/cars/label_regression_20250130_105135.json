@@ -1,0 +1,1082 @@
+{
+  "metadata": {
+    "timestamp": "2025-01-30T10:51:35.134955",
+    "dataset": "cars",
+    "issue_type": "label_regression"
+  },
+  "summary": {
+    "total_issues": 107
+  },
+  "issues": [
+    {
+      "index": 4,
+      "label_score": 0.014359662821430414,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.014359662821430414,
+        "given_label": 97500,
+        "predicted_label": 162089.90089774592
+      }
+    },
+    {
+      "index": 29,
+      "label_score": 0.002567929517412828,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.002567929517412828,
+        "given_label": 17900,
+        "predicted_label": 105985.05988962545
+      }
+    },
+    {
+      "index": 31,
+      "label_score": 0.004479442133042047,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.004479442133042047,
+        "given_label": 104900,
+        "predicted_label": 39200.05375980266
+      }
+    },
+    {
+      "index": 36,
+      "label_score": 0.0005864872339182046,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0005864872339182046,
+        "given_label": 165000,
+        "predicted_label": 78267.66702552853
+      }
+    },
+    {
+      "index": 39,
+      "label_score": 0.0014817320856449561,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0014817320856449561,
+        "given_label": 63900,
+        "predicted_label": 158028.09446451138
+      }
+    },
+    {
+      "index": 43,
+      "label_score": 6.651574743848865e-07,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 6.651574743848865e-07,
+        "given_label": 244896,
+        "predicted_label": 84396.41308334626
+      }
+    },
+    {
+      "index": 44,
+      "label_score": 0.0015614161036881023,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0015614161036881023,
+        "given_label": 145000,
+        "predicted_label": 68830.84290105483
+      }
+    },
+    {
+      "index": 49,
+      "label_score": 0.008358729544091831,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.008358729544091831,
+        "given_label": 34500,
+        "predicted_label": 108683.0600350156
+      }
+    },
+    {
+      "index": 65,
+      "label_score": 0.00012847828514700292,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00012847828514700292,
+        "given_label": 193063,
+        "predicted_label": 90015.34062893708
+      }
+    },
+    {
+      "index": 67,
+      "label_score": 0.0005610577477037337,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0005610577477037337,
+        "given_label": 99000,
+        "predicted_label": 8688.602044157256
+      }
+    },
+    {
+      "index": 79,
+      "label_score": 0.0015901213319921734,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0015901213319921734,
+        "given_label": 55000,
+        "predicted_label": 148512.39781738038
+      }
+    },
+    {
+      "index": 83,
+      "label_score": 8.449477421252878e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 8.449477421252878e-05,
+        "given_label": 6700,
+        "predicted_label": 132706.29233588977
+      }
+    },
+    {
+      "index": 85,
+      "label_score": 0.003920588468212497,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.003920588468212497,
+        "given_label": 27599,
+        "predicted_label": 110804.40144729627
+      }
+    },
+    {
+      "index": 93,
+      "label_score": 0.0030178020933203237,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0030178020933203237,
+        "given_label": 4900,
+        "predicted_label": 90815.31978674473
+      }
+    },
+    {
+      "index": 105,
+      "label_score": 0.001119094141022828,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.001119094141022828,
+        "given_label": 41950,
+        "predicted_label": 139625.25123778646
+      }
+    },
+    {
+      "index": 111,
+      "label_score": 0.010143639449555063,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.010143639449555063,
+        "given_label": 29998,
+        "predicted_label": 101802.38405901128
+      }
+    },
+    {
+      "index": 150,
+      "label_score": 0.0007350583686694996,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0007350583686694996,
+        "given_label": 29995,
+        "predicted_label": 132425.55420550573
+      }
+    },
+    {
+      "index": 155,
+      "label_score": 0.0029365363874726304,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0029365363874726304,
+        "given_label": 101000,
+        "predicted_label": 30080.417977901554
+      }
+    },
+    {
+      "index": 165,
+      "label_score": 0.009873647159768607,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.009873647159768607,
+        "given_label": 39500,
+        "predicted_label": 111630.21893738324
+      }
+    },
+    {
+      "index": 176,
+      "label_score": 0.011204733336647442,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.011204733336647442,
+        "given_label": 52999,
+        "predicted_label": 123338.18427231151
+      }
+    },
+    {
+      "index": 192,
+      "label_score": 0.00012001134752684027,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00012001134752684027,
+        "given_label": 13500,
+        "predicted_label": 135780.8724074838
+      }
+    },
+    {
+      "index": 196,
+      "label_score": 0.0025681108119080115,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0025681108119080115,
+        "given_label": 21000,
+        "predicted_label": 109126.28524378876
+      }
+    },
+    {
+      "index": 202,
+      "label_score": 0.017547719500664423,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.017547719500664423,
+        "given_label": 80140,
+        "predicted_label": 30016.83516036716
+      }
+    },
+    {
+      "index": 218,
+      "label_score": 0.0009458344528808786,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0009458344528808786,
+        "given_label": 110000,
+        "predicted_label": 26040.597950490268
+      }
+    },
+    {
+      "index": 220,
+      "label_score": 6.98208680269591e-122,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 6.98208680269591e-122,
+        "given_label": 2954083,
+        "predicted_label": 52640.146373335454
+      }
+    },
+    {
+      "index": 230,
+      "label_score": 0.00023761533762054848,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00023761533762054848,
+        "given_label": 40999,
+        "predicted_label": 155899.34994945995
+      }
+    },
+    {
+      "index": 251,
+      "label_score": 0.005741116162759131,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.005741116162759131,
+        "given_label": 124900,
+        "predicted_label": 63449.442036183595
+      }
+    },
+    {
+      "index": 267,
+      "label_score": 2.391549060647136e-12,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 2.391549060647136e-12,
+        "given_label": 315000,
+        "predicted_label": 17948.03815260163
+      }
+    },
+    {
+      "index": 280,
+      "label_score": 0.0007211525668528916,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0007211525668528916,
+        "given_label": 27890,
+        "predicted_label": 130526.62069347344
+      }
+    },
+    {
+      "index": 282,
+      "label_score": 0.014604795781455267,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.014604795781455267,
+        "given_label": 40798,
+        "predicted_label": 108035.74549881903
+      }
+    },
+    {
+      "index": 283,
+      "label_score": 2.275012666900637e-08,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 2.275012666900637e-08,
+        "given_label": 267950,
+        "predicted_label": 70482.19404735048
+      }
+    },
+    {
+      "index": 289,
+      "label_score": 0.004236581423633858,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.004236581423633858,
+        "given_label": 47598,
+        "predicted_label": 129791.1484334976
+      }
+    },
+    {
+      "index": 292,
+      "label_score": 0.0002548058380760596,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0002548058380760596,
+        "given_label": 140000,
+        "predicted_label": 41966.39157140432
+      }
+    },
+    {
+      "index": 296,
+      "label_score": 3.247449653219137e-18,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 3.247449653219137e-18,
+        "given_label": 489000,
+        "predicted_label": 52663.54832737069
+      }
+    },
+    {
+      "index": 315,
+      "label_score": 1.301124757945018e-06,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 1.301124757945018e-06,
+        "given_label": 175000,
+        "predicted_label": 18914.468218584905
+      }
+    },
+    {
+      "index": 332,
+      "label_score": 0.009374990131825542,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.009374990131825542,
+        "given_label": 10999,
+        "predicted_label": 83429.20916908998
+      }
+    },
+    {
+      "index": 338,
+      "label_score": 0.002033723059180268,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.002033723059180268,
+        "given_label": 99000,
+        "predicted_label": 23664.60090593123
+      }
+    },
+    {
+      "index": 349,
+      "label_score": 0.014170821236572087,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.014170821236572087,
+        "given_label": 146000,
+        "predicted_label": 98701.42170274122
+      }
+    },
+    {
+      "index": 350,
+      "label_score": 2.355688451626313e-13,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 2.355688451626313e-13,
+        "given_label": 349950,
+        "predicted_label": 28918.91695427246
+      }
+    },
+    {
+      "index": 354,
+      "label_score": 3.195944424705171e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 3.195944424705171e-05,
+        "given_label": 166900,
+        "predicted_label": 46238.97848823529
+      }
+    },
+    {
+      "index": 364,
+      "label_score": 0.00229455002747248,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00229455002747248,
+        "given_label": 29430,
+        "predicted_label": 118926.47191806913
+      }
+    },
+    {
+      "index": 380,
+      "label_score": 0.00036515394822087384,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00036515394822087384,
+        "given_label": 145000,
+        "predicted_label": 51386.32318863873
+      }
+    },
+    {
+      "index": 391,
+      "label_score": 8.577844441616276e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 8.577844441616276e-05,
+        "given_label": 197750,
+        "predicted_label": 90219.73004607738
+      }
+    },
+    {
+      "index": 405,
+      "label_score": 0.008608827064003113,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.008608827064003113,
+        "given_label": 55000,
+        "predicted_label": 128535.8627180218
+      }
+    },
+    {
+      "index": 417,
+      "label_score": 4.697401550325122e-09,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 4.697401550325122e-09,
+        "given_label": 275000,
+        "predicted_label": 60237.8720792471
+      }
+    },
+    {
+      "index": 419,
+      "label_score": 0.002759819875721075,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.002759819875721075,
+        "given_label": 39860,
+        "predicted_label": 127186.1241307234
+      }
+    },
+    {
+      "index": 433,
+      "label_score": 5.154989691490311e-16,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 5.154989691490311e-16,
+        "given_label": 449995,
+        "predicted_label": 66663.98774160969
+      }
+    },
+    {
+      "index": 441,
+      "label_score": 0.0007810975986878978,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0007810975986878978,
+        "given_label": 130000,
+        "predicted_label": 44612.915062056076
+      }
+    },
+    {
+      "index": 448,
+      "label_score": 4.7395779609146536e-07,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 4.7395779609146536e-07,
+        "given_label": 250000,
+        "predicted_label": 85914.57597471782
+      }
+    },
+    {
+      "index": 452,
+      "label_score": 0.0022295482100658528,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0022295482100658528,
+        "given_label": 28600,
+        "predicted_label": 118425.6112818566
+      }
+    },
+    {
+      "index": 459,
+      "label_score": 0.0011912598165214215,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0011912598165214215,
+        "given_label": 131999,
+        "predicted_label": 51747.75815265154
+      }
+    },
+    {
+      "index": 475,
+      "label_score": 0.0008119251360189199,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0008119251360189199,
+        "given_label": 37000,
+        "predicted_label": 138314.08693260542
+      }
+    },
+    {
+      "index": 481,
+      "label_score": 1.3346025845377182e-07,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 1.3346025845377182e-07,
+        "given_label": 275000,
+        "predicted_label": 97910.23510767714
+      }
+    },
+    {
+      "index": 504,
+      "label_score": 0.00850858889173121,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00850858889173121,
+        "given_label": 112500,
+        "predicted_label": 55154.810272116585
+      }
+    },
+    {
+      "index": 536,
+      "label_score": 0.00016311777476154136,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00016311777476154136,
+        "given_label": 39000,
+        "predicted_label": 158028.2549181064
+      }
+    },
+    {
+      "index": 538,
+      "label_score": 0.0017308324283400811,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0017308324283400811,
+        "given_label": 78500,
+        "predicted_label": 170365.73044092144
+      }
+    },
+    {
+      "index": 539,
+      "label_score": 0.011718778114204909,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.011718778114204909,
+        "given_label": 85500,
+        "predicted_label": 30659.98925091484
+      }
+    },
+    {
+      "index": 540,
+      "label_score": 0.01595818040203696,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.01595818040203696,
+        "given_label": 58000,
+        "predicted_label": 6175.962872036413
+      }
+    },
+    {
+      "index": 541,
+      "label_score": 1.3671782971490197e-12,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 1.3671782971490197e-12,
+        "given_label": 349950,
+        "predicted_label": 48159.25392913121
+      }
+    },
+    {
+      "index": 545,
+      "label_score": 0.01172554946212597,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.01172554946212597,
+        "given_label": 41598,
+        "predicted_label": 111583.29775423835
+      }
+    },
+    {
+      "index": 554,
+      "label_score": 0.008141209396005787,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.008141209396005787,
+        "given_label": 42999,
+        "predicted_label": 117450.69996610524
+      }
+    },
+    {
+      "index": 562,
+      "label_score": 0.012751337259525286,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.012751337259525286,
+        "given_label": 108900,
+        "predicted_label": 56424.94447704747
+      }
+    },
+    {
+      "index": 574,
+      "label_score": 0.0003521332264209439,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0003521332264209439,
+        "given_label": 23999,
+        "predicted_label": 134565.32642208374
+      }
+    },
+    {
+      "index": 580,
+      "label_score": 1.260605599420505e-13,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 1.260605599420505e-13,
+        "given_label": 417500,
+        "predicted_label": 92620.18929016979
+      }
+    },
+    {
+      "index": 583,
+      "label_score": 5.338236727132313e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 5.338236727132313e-05,
+        "given_label": 143900,
+        "predicted_label": 28119.036198642698
+      }
+    },
+    {
+      "index": 600,
+      "label_score": 0.012398998851022337,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.012398998851022337,
+        "given_label": 74500,
+        "predicted_label": 142675.26467037562
+      }
+    },
+    {
+      "index": 607,
+      "label_score": 3.258057235362309e-10,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 3.258057235362309e-10,
+        "given_label": 56900,
+        "predicted_label": 315096.89040828025
+      }
+    },
+    {
+      "index": 608,
+      "label_score": 0.0073077645422419775,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0073077645422419775,
+        "given_label": 44900,
+        "predicted_label": 120629.42296276681
+      }
+    },
+    {
+      "index": 611,
+      "label_score": 1.2047982310442198e-07,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 1.2047982310442198e-07,
+        "given_label": 279950,
+        "predicted_label": 101983.95377982568
+      }
+    },
+    {
+      "index": 618,
+      "label_score": 0.00017591132750785854,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00017591132750785854,
+        "given_label": 173995,
+        "predicted_label": 73414.91969257155
+      }
+    },
+    {
+      "index": 628,
+      "label_score": 0.0007737505416906026,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0007737505416906026,
+        "given_label": 116999,
+        "predicted_label": 30943.770563205257
+      }
+    },
+    {
+      "index": 652,
+      "label_score": 6.557517445079511e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 6.557517445079511e-05,
+        "given_label": 239995,
+        "predicted_label": 132638.7171424873
+      }
+    },
+    {
+      "index": 658,
+      "label_score": 0.008960022785242789,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.008960022785242789,
+        "given_label": 91000,
+        "predicted_label": 162292.53242601792
+      }
+    },
+    {
+      "index": 665,
+      "label_score": 0.004813121204234403,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.004813121204234403,
+        "given_label": 115999,
+        "predicted_label": 51764.02811750046
+      }
+    },
+    {
+      "index": 673,
+      "label_score": 0.012700690084655384,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.012700690084655384,
+        "given_label": 53500,
+        "predicted_label": 122253.45724026217
+      }
+    },
+    {
+      "index": 681,
+      "label_score": 0.002115287837828944,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.002115287837828944,
+        "given_label": 48950,
+        "predicted_label": -26619.09224573621
+      }
+    },
+    {
+      "index": 693,
+      "label_score": 0.005918336559682229,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.005918336559682229,
+        "given_label": 40900,
+        "predicted_label": -22636.28709995073
+      }
+    },
+    {
+      "index": 698,
+      "label_score": 4.3805077841047425e-15,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 4.3805077841047425e-15,
+        "given_label": 399900,
+        "predicted_label": 37611.24098875887
+      }
+    },
+    {
+      "index": 699,
+      "label_score": 0.012910420942167366,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.012910420942167366,
+        "given_label": 71000,
+        "predicted_label": 16863.391716782407
+      }
+    },
+    {
+      "index": 703,
+      "label_score": 0.006170852236605992,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.006170852236605992,
+        "given_label": 27875,
+        "predicted_label": 105681.73559714352
+      }
+    },
+    {
+      "index": 706,
+      "label_score": 4.669622599361114e-06,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 4.669622599361114e-06,
+        "given_label": 21000,
+        "predicted_label": 178158.34997356075
+      }
+    },
+    {
+      "index": 714,
+      "label_score": 2.134969199593895e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 2.134969199593895e-05,
+        "given_label": 9500,
+        "predicted_label": 150356.37033223535
+      }
+    },
+    {
+      "index": 715,
+      "label_score": 0.00038706430389540874,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00038706430389540874,
+        "given_label": 139000,
+        "predicted_label": 45776.596850267895
+      }
+    },
+    {
+      "index": 716,
+      "label_score": 9.857675142774842e-07,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 9.857675142774842e-07,
+        "given_label": 105000,
+        "predicted_label": 277873.6800051502
+      }
+    },
+    {
+      "index": 718,
+      "label_score": 1.389663691047899e-08,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 1.389663691047899e-08,
+        "given_label": 254900,
+        "predicted_label": 51307.630533198906
+      }
+    },
+    {
+      "index": 730,
+      "label_score": 3.3126009725234655e-06,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 3.3126009725234655e-06,
+        "given_label": 239995,
+        "predicted_label": 97578.37780440663
+      }
+    },
+    {
+      "index": 732,
+      "label_score": 0.011891755644669603,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.011891755644669603,
+        "given_label": 93999,
+        "predicted_label": 39725.92116140737
+      }
+    },
+    {
+      "index": 741,
+      "label_score": 0.0005050741867194635,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0005050741867194635,
+        "given_label": 46552,
+        "predicted_label": 153092.83443109898
+      }
+    },
+    {
+      "index": 745,
+      "label_score": 0.0013087666355487465,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0013087666355487465,
+        "given_label": 166900,
+        "predicted_label": 90237.02931216932
+      }
+    },
+    {
+      "index": 759,
+      "label_score": 0.010991134247366266,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.010991134247366266,
+        "given_label": 62000,
+        "predicted_label": 5786.143170046397
+      }
+    },
+    {
+      "index": 760,
+      "label_score": 0.002444368069444261,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.002444368069444261,
+        "given_label": 26772,
+        "predicted_label": 115523.01954679236
+      }
+    },
+    {
+      "index": 785,
+      "label_score": 0.0012831596389234732,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.0012831596389234732,
+        "given_label": 28500,
+        "predicted_label": 124643.15272957332
+      }
+    },
+    {
+      "index": 831,
+      "label_score": 6.777405382498304e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 6.777405382498304e-05,
+        "given_label": 48000,
+        "predicted_label": 176494.28819301052
+      }
+    },
+    {
+      "index": 847,
+      "label_score": 0.00011398069649851525,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00011398069649851525,
+        "given_label": 165000,
+        "predicted_label": 58822.025059770676
+      }
+    },
+    {
+      "index": 856,
+      "label_score": 0.00012022288581428682,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00012022288581428682,
+        "given_label": 39995,
+        "predicted_label": 162340.85854546295
+      }
+    },
+    {
+      "index": 858,
+      "label_score": 0.00025540796041348076,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00025540796041348076,
+        "given_label": 210000,
+        "predicted_label": 116713.09887237444
+      }
+    },
+    {
+      "index": 875,
+      "label_score": 3.011763724604874e-11,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 3.011763724604874e-11,
+        "given_label": 314900,
+        "predicted_label": 45764.86334870046
+      }
+    },
+    {
+      "index": 921,
+      "label_score": 0.00623725248096453,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.00623725248096453,
+        "given_label": 127899,
+        "predicted_label": 67729.95157569752
+      }
+    },
+    {
+      "index": 945,
+      "label_score": 8.768692196090536e-06,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 8.768692196090536e-06,
+        "given_label": 25500,
+        "predicted_label": 175968.36989056272
+      }
+    },
+    {
+      "index": 946,
+      "label_score": 4.137902514537337e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 4.137902514537337e-05,
+        "given_label": 67900,
+        "predicted_label": 201474.55565476947
+      }
+    },
+    {
+      "index": 957,
+      "label_score": 0.007112655982169119,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.007112655982169119,
+        "given_label": 31750,
+        "predicted_label": 107875.6366444274
+      }
+    },
+    {
+      "index": 967,
+      "label_score": 4.3839655420279774e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 4.3839655420279774e-05,
+        "given_label": 179900,
+        "predicted_label": 63466.69933828322
+      }
+    },
+    {
+      "index": 972,
+      "label_score": 2.5886296646147587e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 2.5886296646147587e-05,
+        "given_label": 185500,
+        "predicted_label": 63349.02725733309
+      }
+    },
+    {
+      "index": 973,
+      "label_score": 0.008696219524606048,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.008696219524606048,
+        "given_label": 98900,
+        "predicted_label": 41022.16000462839
+      }
+    },
+    {
+      "index": 975,
+      "label_score": 0.01476918580470323,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.01476918580470323,
+        "given_label": 10500,
+        "predicted_label": 77229.9736803356
+      }
+    },
+    {
+      "index": 983,
+      "label_score": 0.010403400788073367,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 0.010403400788073367,
+        "given_label": 34000,
+        "predicted_label": 105507.10727723908
+      }
+    },
+    {
+      "index": 998,
+      "label_score": 2.514475242551319e-05,
+      "row_data": {
+        "is_label_issue": true,
+        "label_score": 2.514475242551319e-05,
+        "given_label": 220000,
+        "predicted_label": 99615.4966704467
+      }
+    }
+  ]
+}

@@ -35,9 +35,11 @@ def display_non_iid_issues(lab, df, labels):
         # Ask user about saving results
         save_option = input("\nWould you like to save the results to JSON? (y/n): ").strip().lower()
         if save_option == 'y':
+            # Get dataset name from the user
+            dataset_name = input("Enter dataset name: ").strip()
             custom_path = input("Enter custom file path (or press Enter for default): ").strip()
             output_path = custom_path if custom_path else None
-            save_results_to_json(non_iid_results, output_path=output_path, issue_type="non_iid")
+            save_results_to_json(non_iid_results, dataset_name, output_path=output_path, issue_type="non_iid_classification")
         
         # Reset display options
         pd.reset_option('display.max_rows')
@@ -79,13 +81,6 @@ def main():
         
         # Display results
         display_non_iid_issues(lab, df, labels)
-        
-        # Apply fixes if user wants
-        df_fixed = apply_fixes(df, lab.get_issues(), "non_iid")
-        
-        # Save fixed dataset if changes were made
-        if not df_fixed.equals(df):
-            save_fixed_dataset(df_fixed, None)
             
     except Exception as e:
         print(f"Error in main: {str(e)}")

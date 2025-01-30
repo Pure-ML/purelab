@@ -44,9 +44,17 @@ def display_duplicate_issues(lab, df, labels):
         pd.reset_option('display.max_columns')
         pd.reset_option('display.width')
         pd.reset_option('display.max_colwidth')
+        
+        # Ask user about saving results
+        save_option = input("\nWould you like to save the results to JSON? (y/n): ").strip().lower()
+        if save_option == 'y':
+            # Get dataset name from the user
+            dataset_name = input("Enter dataset name: ").strip()
+            custom_path = input("Enter custom file path (or press Enter for default): ").strip()
+            output_path = custom_path if custom_path else None
+            save_results_to_json(duplicate_results, dataset_name, output_path=output_path, issue_type="duplicate_classification")
 
 def main():
-    print("Script starting...")  # Debug print
     try:
         print("\n=== Duplicate Checker (Classification) ===")
         
@@ -88,6 +96,7 @@ def main():
         
         # Display results
         display_duplicate_issues(lab, df, labels)
+            
     except Exception as e:
         print(f"Error in main: {str(e)}")
         raise e
