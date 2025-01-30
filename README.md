@@ -154,6 +154,5 @@ Identifies violations of the IID assumption.
 - numpy
 - scikit-learn
 
-## Note
-This tool is designed to assist in data quality analysis but should not be used as the sole decision-maker for data cleaning. Always review the identified issues in the context of your specific use case.
+
 
