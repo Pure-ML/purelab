@@ -38,7 +38,13 @@ def display_label_issues(lab, df, labels):
             dataset_name = input("Enter dataset name: ").strip()
             custom_path = input("Enter custom file path (or press Enter for default): ").strip()
             output_path = custom_path if custom_path else None
-            save_results_to_json(label_results, dataset_name, output_path=output_path, issue_type="label_regression")
+            save_results_to_json(
+                label_results, 
+                dataset_name, 
+                label_column=label_column,  # Pass the label column
+                output_path=output_path, 
+                issue_type="label_regression"
+            )
         
         # Reset display options
         pd.reset_option('display.max_rows')

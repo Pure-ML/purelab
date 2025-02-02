@@ -1,0 +1,124 @@
+Loaded original dataset from data/cars.csv
+
+Starting dataset cleaning process...
+Loaded results from results/cars/label_regression_20250202_005440.json
+Corrected label at index 4: 97500 -> 162089.90089774592
+Corrected label at index 29: 17900.0 -> 105985.05988962545
+Corrected label at index 31: 104900.0 -> 39200.05375980266
+Corrected label at index 36: 165000.0 -> 78267.66702552853
+Corrected label at index 39: 63900.0 -> 158028.09446451138
+Corrected label at index 43: 244896.0 -> 84396.41308334626
+Corrected label at index 44: 145000.0 -> 68830.84290105483
+Corrected label at index 49: 34500.0 -> 108683.0600350156
+Corrected label at index 65: 193063.0 -> 90015.34062893708
+Corrected label at index 67: 99000.0 -> 8688.602044157256
+Corrected label at index 79: 55000.0 -> 148512.39781738038
+Corrected label at index 83: 6700.0 -> 132706.29233588977
+Corrected label at index 85: 27599.0 -> 110804.40144729627
+Corrected label at index 93: 4900.0 -> 90815.31978674473
+Corrected label at index 105: 41950.0 -> 139625.25123778646
+Corrected label at index 111: 29998.0 -> 101802.38405901128
+Corrected label at index 150: 29995.0 -> 132425.55420550573
+Corrected label at index 155: 101000.0 -> 30080.417977901554
+Corrected label at index 165: 39500.0 -> 111630.21893738324
+Corrected label at index 176: 52999.0 -> 123338.18427231151
+Corrected label at index 192: 13500.0 -> 135780.8724074838
+Corrected label at index 196: 21000.0 -> 109126.28524378876
+Corrected label at index 202: 80140.0 -> 30016.83516036716
+Corrected label at index 218: 110000.0 -> 26040.597950490268
+Corrected label at index 220: 2954083.0 -> 52640.146373335454
+Corrected label at index 230: 40999.0 -> 155899.34994945995
+Corrected label at index 251: 124900.0 -> 63449.442036183595
+Corrected label at index 267: 315000.0 -> 17948.03815260163
+Corrected label at index 280: 27890.0 -> 130526.62069347344
+Corrected label at index 282: 40798.0 -> 108035.74549881903
+Corrected label at index 283: 267950.0 -> 70482.19404735048
+Corrected label at index 289: 47598.0 -> 129791.1484334976
+Corrected label at index 292: 140000.0 -> 41966.39157140432
+Corrected label at index 296: 489000.0 -> 52663.54832737069
+Corrected label at index 315: 175000.0 -> 18914.468218584905
+Corrected label at index 332: 10999.0 -> 83429.20916908998
+Corrected label at index 338: 99000.0 -> 23664.60090593123
+Corrected label at index 349: 146000.0 -> 98701.42170274122
+Corrected label at index 350: 349950.0 -> 28918.91695427246
+Corrected label at index 354: 166900.0 -> 46238.97848823529
+Corrected label at index 364: 29430.0 -> 118926.47191806913
+Corrected label at index 380: 145000.0 -> 51386.32318863873
+Corrected label at index 391: 197750.0 -> 90219.73004607738
+Corrected label at index 405: 55000.0 -> 128535.8627180218
+Corrected label at index 417: 275000.0 -> 60237.8720792471
+Corrected label at index 419: 39860.0 -> 127186.1241307234
+Corrected label at index 433: 449995.0 -> 66663.98774160969
+Corrected label at index 441: 130000.0 -> 44612.915062056076
+Corrected label at index 448: 250000.0 -> 85914.57597471782
+Corrected label at index 452: 28600.0 -> 118425.6112818566
+Corrected label at index 459: 131999.0 -> 51747.75815265154
+Corrected label at index 475: 37000.0 -> 138314.08693260542
+Corrected label at index 481: 275000.0 -> 97910.23510767714
+Corrected label at index 504: 112500.0 -> 55154.810272116585
+Corrected label at index 536: 39000.0 -> 158028.2549181064
+Corrected label at index 538: 78500.0 -> 170365.73044092144
+Corrected label at index 539: 85500.0 -> 30659.98925091484
+Corrected label at index 540: 58000.0 -> 6175.962872036413
+Corrected label at index 541: 349950.0 -> 48159.25392913121
+Corrected label at index 545: 41598.0 -> 111583.29775423835
+Corrected label at index 554: 42999.0 -> 117450.69996610524
+Corrected label at index 562: 108900.0 -> 56424.94447704747
+Corrected label at index 574: 23999.0 -> 134565.32642208374
+Corrected label at index 580: 417500.0 -> 92620.18929016979
+Corrected label at index 583: 143900.0 -> 28119.036198642698
+Corrected label at index 600: 74500.0 -> 142675.26467037562
+Corrected label at index 607: 56900.0 -> 315096.89040828025
+Corrected label at index 608: 44900.0 -> 120629.42296276681
+Corrected label at index 611: 279950.0 -> 101983.95377982568
+Corrected label at index 618: 173995.0 -> 73414.91969257155
+Corrected label at index 628: 116999.0 -> 30943.770563205257
+Corrected label at index 652: 239995.0 -> 132638.7171424873
+Corrected label at index 658: 91000.0 -> 162292.53242601792
+Corrected label at index 665: 115999.0 -> 51764.02811750046
+Corrected label at index 673: 53500.0 -> 122253.45724026217
+Corrected label at index 681: 48950.0 -> -26619.09224573621
+Corrected label at index 693: 40900.0 -> -22636.28709995073
+Corrected label at index 698: 399900.0 -> 37611.24098875887
+Corrected label at index 699: 71000.0 -> 16863.391716782407
+Corrected label at index 703: 27875.0 -> 105681.73559714352
+Corrected label at index 706: 21000.0 -> 178158.34997356075
+Corrected label at index 714: 9500.0 -> 150356.37033223535
+Corrected label at index 715: 139000.0 -> 45776.596850267895
+Corrected label at index 716: 105000.0 -> 277873.6800051502
+Corrected label at index 718: 254900.0 -> 51307.630533198906
+Corrected label at index 730: 239995.0 -> 97578.37780440663
+Corrected label at index 732: 93999.0 -> 39725.92116140737
+Corrected label at index 741: 46552.0 -> 153092.83443109898
+Corrected label at index 745: 166900.0 -> 90237.02931216932
+Corrected label at index 759: 62000.0 -> 5786.143170046397
+Corrected label at index 760: 26772.0 -> 115523.01954679236
+Corrected label at index 785: 28500.0 -> 124643.15272957332
+Corrected label at index 831: 48000.0 -> 176494.28819301052
+Corrected label at index 847: 165000.0 -> 58822.025059770676
+Corrected label at index 856: 39995.0 -> 162340.85854546295
+Corrected label at index 858: 210000.0 -> 116713.09887237444
+Corrected label at index 875: 314900.0 -> 45764.86334870046
+Corrected label at index 921: 127899.0 -> 67729.95157569752
+Corrected label at index 945: 25500.0 -> 175968.36989056272
+Corrected label at index 946: 67900.0 -> 201474.55565476947
+Corrected label at index 957: 31750.0 -> 107875.6366444274
+Corrected label at index 967: 179900.0 -> 63466.69933828322
+Corrected label at index 972: 185500.0 -> 63349.02725733309
+Corrected label at index 973: 98900.0 -> 41022.16000462839
+Corrected label at index 975: 10500.0 -> 77229.9736803356
+Corrected label at index 983: 34000.0 -> 105507.10727723908
+Corrected label at index 998: 220000.0 -> 99615.4966704467
+Applied 107 label corrections
+Loaded results from results/cars/outlier_regression_20250202_005543.json
+No outliers to remove
+Loaded results from results/cars/duplicate_regression_20250202_005607.json
+Loaded results from results/cars/non_iid_regression_20250202_005632.json
+No non-IID samples to remove
+
+Cleaning complete:
+Original rows: 1001
+Final rows: 1001
+Rows removed: 0
+
+Cleaned dataset saved to: data/cars_cleaned.csv

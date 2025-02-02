@@ -1,0 +1,5702 @@
+{
+  "timestamp": "2025-02-02T01:07:11.528719",
+  "dataset_name": "grades",
+  "issue_type": "duplicate_classification",
+  "issues": [
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9997506867076825,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.5358404800885985
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        6,
+        9,
+        12,
+        2
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        6,
+        9,
+        12,
+        1
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9999999998497501,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 4.187005357284407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9997506867076825,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.5358404800885985
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9955555603823582,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.0025874625106608
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        9,
+        12,
+        2,
+        1
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9999992778588418,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 2.6176826010915653
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9996272846800548,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.4614059380601598
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        6,
+        12,
+        2,
+        1
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5715406549857305,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1568937459849638
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.46538213401655504,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133105
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        6,
+        9,
+        2,
+        1
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.625312371598143,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18171790324833248
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8061537550367399,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30371203591602697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9114156670130271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4486754473112346
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8813065097043832,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3945135173826525
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7669349092608788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2696046197896717
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545791,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924023
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6919454711935483,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21796584758648158
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8964564632395985,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.41979103727339334
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7279454540939558,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24097054597416367
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.843722097360286,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34359069395126174
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544778
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        187
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069232
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4898934597841411,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1246057496301346
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6964246457891635,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22067717853156563
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5556379902484873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1501475636563056
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8370927085019354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.33590012114022166
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618503
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668055
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.60134554218025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17024050347818412
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9211346324862847,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4701878801927474
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2132469462739884
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7147088289884844,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23217627700249024
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14396694042127534
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7635396495656123,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26692738222461593
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9498899599916,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5541401974902723
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7030440158872031,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22475815460693274
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7963017975675774,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29453523651066643
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5950175094604699,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16732520337626447
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5804107553890054,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16076622532015555
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8556540141466681,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.35829282902775617
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909207
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7783453398239122,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2788967409763574
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8351839472995797,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.33374379422754524
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5715406549857304,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15689374598496375
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8999182175703007,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4260856901087635
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5714851819282297,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6919454711935483,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21796584758648158
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6351688513903535,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1866526380703783
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8762269019294456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3867562761549252
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9595102012145446,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5936008501606949
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528026,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618504
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7204304390448599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2359265008986074
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9528615825579225,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5654566843623122
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7030440158872028,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22475815460693255
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697683,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.06230287481506734
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5474597773755412,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14677165401574488
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.625312371598143,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18171790324833248
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9045059414614159,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.43477183789000995
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7214142733833999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23657907953852897
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545789,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924016
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8986859231655315,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.42382034261184687
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121678,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813226
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7141837373713069,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23183588224266183
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7168761428517767,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23358791660419395
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7237443627563002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23813386966157443
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9133532561653237,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.45276931437921725
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6656044238796546,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2027777757175824
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8223252022574861,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.31983724845160155
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5804107553890054,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16076622532015558
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208311
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7030440158872031,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22475815460693274
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7168761428517767,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23358791660419392
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414156,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013475
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9477441055634863,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5463781928336979
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7660817896456087,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26892826506018136
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7806749256944958,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28085256422118593
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8471975196100842,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34775382336399274
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8930501019485274,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.41379926166277536
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545789,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924016
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7237443627563002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23813386966157446
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6834618555135055,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21293690958464054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9030133230302402,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.43190082126382595
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.843369040349254,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.343172966869204
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5474597773755412,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14677165401574488
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963575999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17614595989478954
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208311
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8724629394223954,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.38121087213618304
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15096462236836708
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8210950050308327,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.318559971104497
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7140263056368434,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23173394773268596
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6925186275727706,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21831058255528232
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8762269019294455,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.38675627615492514
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7669349092608788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2696046197896717
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8433412264431958,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34314009826262476
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9030165873308197,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.43190705173436883
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.800789699467843,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2986592526482624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.661081746806127,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828558
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7478922301705764,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.25506610038106636
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8410746232604412,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34048100695636824
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6606441378778722,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20005206142951237
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1536416470071776
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9236358369284561,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4761538068169936
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8762269019294455,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.38675627615492514
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7214142733834004,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23657907953852916
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7450920265380767,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2530213605500107
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6838755038055905,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2131789704486179
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.939681287214952,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.519816474679828
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8762269019294456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3867562761549252
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593768,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1754982619918697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718494,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972351
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1115923999840983
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2470204850733611
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6656044238796546,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20277777571758243
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336102
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909205
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6013455421802503,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17024050347818417
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.498910975770825,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12790738226917076
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909207
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718527,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.042635794089723594
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9196398991155288,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4667122831042928
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718494,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972351
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9211716252102577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.47027472969455353
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8938296742753177,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4151535126443928
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668055
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4066338352903739,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0966182230389582
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963575999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1761459598947895
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        915
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9845670714611842,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.7721503746410993
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697684,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.062302874815067376
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9163424339338454,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4592681593961622
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6466644411034421,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19257927815114168
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5196595496547308,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.13573553592008397
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717756
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8074194960078376,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3049247116337999
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6466644411034421,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1925792781511417
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8487122332557032,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34959797704418843
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7397913176290065,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24921149926026936
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8891725137766194,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.40720660776025197
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        582
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        27
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.729548890954852,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2420647903666355
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9847281803178135,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.7740929744068216
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083747
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8210950050308327,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.318559971104497
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5196595496547309,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.135735535920084
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593768,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1754982619918697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7111353120572083,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2298719870693088
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5556379902484873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1501475636563056
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545789,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924016
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.578485115633488,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15991862422580078
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6479165945777888,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1932364460779164
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6838755038055905,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2131789704486179
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8238193039479418,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3214004762407163
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7702878273290588,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2722870226175689
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697683,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.062302874815067334
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9722296164602443,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6634030185788526
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7889065685624798,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28793388084255067
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.817685555387706,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3150654188831328
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7179418270686835,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23428599817815496
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8098576665562136,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30728329401435517
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6356730167852034,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18690862444520204
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7607799693978191,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26477948321987693
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593768,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1754982619918697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7482932064923391,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2553607552172762
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8571687074838295,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.36024556775084976
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7111353120572083,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2298719870693088
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9551017243207642,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5744696092436627
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8982315216469168,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4229919554661366
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2132469462739884
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013468
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.873900273242626,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3833089206262107
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36912508374993114,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944713
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5556379902484873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1501475636563056
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7482932064923391,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2553607552172762
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6656044238796546,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20277777571758243
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121678,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813226
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528026,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618504
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7237443627563002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23813386966157446
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054597,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083736
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1536416470071776
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8964564632395985,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4197910372733934
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013468
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705653
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        690
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013468
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7147088289884844,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2321762770024902
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8061537550367399,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30371203591602697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061267,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828547
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731185,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2426566350119877
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36912508374993114,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944713
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697684,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.062302874815067376
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8875150492463411,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.40445868337031554
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8990982121851471,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.42457517863334426
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.707823057643769,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22776148096068524
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9967925374143919,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.062966242475525
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9540676585147535,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5702545843161994
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9875877582386404,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.8124715948376434
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8359891823563995,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.33465040675252894
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7702878273290588,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2722870226175689
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731187,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24265663501198775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8226456082468777,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3201713682064847
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013468
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6883302282335562,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21580606835294058
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9646300050117371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6186254898462422
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9283896273241176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4880516430666516
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7565135490171708,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2615071516993173
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5950175094604699,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16732520337626447
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963576002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17614595989478957
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7111353120572083,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2298719870693088
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8238193039479418,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3214004762407164
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9967925374143919,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.062966242475525
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7821755711195697,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28212347562534457
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668051
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061267,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2002909230982855
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9229446132451009,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.47448576737409515
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9267197130108582,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.48378448726934253
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544778
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9598937860266914,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.595362893543162
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7204304390448599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2359265008986074
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8851344176520137,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4005818461965711
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.843722097360286,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34359069395126174
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8209841109455986,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.31844526492139913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        691
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7168761428517767,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23358791660419395
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668055
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7005092948384221,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22318479996819665
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5715406549857305,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1568937459849638
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8351839472995797,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.33374379422754524
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8281908615250362,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32605160073067785
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9341373849482126,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5035398020907614
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5714851819282297,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7924565516361587,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29107341114350077
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7889065685624798,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28793388084255067
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594525,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668044
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7783453398239122,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2788967409763574
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9649889832052395,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6205138368319324
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7451708839478592,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.25307863510819545
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569802
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254985,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569805
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2176207235501808,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208323
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9933697153567869,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.9285436294418741
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8780856984956106,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3895573382450523
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6019968400464686,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17054317635889427
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7111353120572083,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2298719870693088
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6955079406445788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22011903777218625
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6013455421802503,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17024050347818417
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6351688513903535,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1866526380703783
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.809641975941586,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30707342820198325
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668051
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569802
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336105
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963575999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1761459598947895
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9880733381886183,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.8198588455488537
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7214142733834004,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23657907953852916
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061267,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828556
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7397913176290065,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24921149926026928
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5196595496547309,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.135735535920084
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6064347408519474,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1726188503980956
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4066338352903739,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0966182230389582
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054597,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1978651451008374
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6064347408519474,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1726188503980956
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439669404212753
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6479165945777888,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1932364460779164
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061265,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828542
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185665,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416625
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668051
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9060426393101455,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4377749090031262
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.809641975941586,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30707342820198325
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7204304390448599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2359265008986074
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121678,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813226
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9558173687788564,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5774439279149708
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.796630539306278,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29483422454611236
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9851479793202799,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.7792526768012927
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545792,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924026
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1235102425366805
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2132469462739884
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013467
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9585078801646032,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5890742109063501
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705653
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.756134801856652,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26121943007432724
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14396694042127534
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7862324246427443,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2856035954677206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013467
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6356730167852034,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18690862444520204
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054597,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1978651451008374
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7565135490171708,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2615071516993173
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7141837373713069,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23183588224266183
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7111353120572083,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2298719870693088
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692316
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7295488909548519,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24206479036663547
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9114156670130271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4486754473112346
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7451708839478592,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2530786351081954
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36912508374993114,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944713
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8657915547245691,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3717725174467398
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6964246457891635,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22067717853156563
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8930501019485274,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.41379926166277536
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6955079406445788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22011903777218622
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6479165945777888,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1932364460779164
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7554286193410518,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2606841580398929
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7910061164372848,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2897842368813655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5784851156334881,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1599186242258008
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14396694042127534
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593768,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1754982619918697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285578,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544783
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.902595611658537,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.431105273721147
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.142801773065698
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336105
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7478922301705764,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.25506610038106636
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336105
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7664523791944405,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26922176556843036
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6989441608317671,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22221992439905583
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545791,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924023
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6656044238796546,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20277777571758243
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9291936363073532,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4901417569847959
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.46538213401655504,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133105
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545789,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924016
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963575999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1761459598947895
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225617,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.215950410631913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9213139882542377,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4706093425553353
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5714851819282298,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1568697808517784
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6955079406445788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22011903777218622
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9305308858005621,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.49367122550704706
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185654,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018014,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208309
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.812202670110064,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30958045841864884
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.142801773065698
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7295488909548519,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24206479036663547
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8095754254036358,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.30700872288742836
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1235102425366805
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5575950163066409,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15096462236836705
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528026,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618504
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7239629619674195,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23828040581966
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6964246457891635,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22067717853156563
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.800789699467843,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2986592526482624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.707823057643769,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22776148096068524
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7664523791944405,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26922176556843036
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9175386362178012,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.46193414917852904
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.661081746806127,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828558
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083747
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.794631003848786,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29302308236752067
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9890385220930334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.8354803435218771
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.60134554218025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17024050347818412
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8580094346260957,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3613383873776475
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569802
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6883302282335562,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2158060683529406
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14396694042127534
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9951302293733564,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.9856694778188677
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6356730167852032,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18690862444520198
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054597,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083741
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731187,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24265663501198775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7279454540939558,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24097054597416367
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528026,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618504
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14396694042127534
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5715406549857304,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15689374598496375
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7561348018566523,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2612194300743273
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6356730167852032,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18690862444520198
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.578485115633488,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15991862422580078
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6883302282335562,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2158060683529406
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7204304390448599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2359265008986074
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593768,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1754982619918697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5950175094604699,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16732520337626447
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121676,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813222
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8657915547245691,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3717725174467398
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7489097897970531,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2558147645383414
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9543006393199894,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5711959119216938
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593768,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1754982619918697
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049373,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708192
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9390177229437714,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5177911789237007
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5714851819282298,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1568697808517784
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5950175094604699,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16732520337626447
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718494,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972351
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8386863517802388,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3377199017117494
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8891725137766194,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.40720660776025197
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7451708839478592,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2530786351081954
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121676,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813221
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061265,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828542
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8848375988433475,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.40010412285902475
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8259369984951499,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32363901053969973
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9165571920597135,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4597439741386176
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6955079406445788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22011903777218622
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075335,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19040239697848044
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8990789022526764,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.42453975641004316
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909205
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7565135490171708,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26150715169931726
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7660817896456087,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26892826506018136
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6883302282335562,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21580606835294058
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6964246457891635,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22067717853156563
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018014,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208309
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083747
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697683,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.06230287481506734
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5950175094604699,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16732520337626447
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697683,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.062302874815067334
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7422762925054622,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.25098780506439666
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8493318806412551,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.35035772091098033
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9114156670130271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4486754473112346
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8316123566327874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32977522487406963
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731185,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24265663501198764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7862323676692042,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28560354613139605
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9547157974730194,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5728852598966965
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054597,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083741
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7239629619674196,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23828040581966003
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5784851156334879,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15991862422580072
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9280230173764796,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4871063761383121
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7005092948384221,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22318479996819665
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9945340962342546,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.9642922100722395
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7903682743894018,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2892201406992065
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7030440158872027,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2247581546069325
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8653505198627652,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3711651997481529
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.698944160831767,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22221992439905575
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8061537550367399,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3037120359160269
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9375092334289542,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5132678598652818
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.729548890954852,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2420647903666355
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9458146144717634,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5396662888188828
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7279454540939558,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24097054597416367
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618503
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.729548890954852,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2420647903666355
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986734,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389404
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4066338352903739,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0966182230389582
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9422103165829088,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.527745228992093
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.521092084516775,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.13628842743624936
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8299023112842477,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32790481433831753
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545791,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924023
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8996559647046557,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4256012586954603
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6428766871546964,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19060543606809152
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8614867129267796,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3659281300768535
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717756
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540872,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717753
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.924817197150285,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4790398934682334
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9207355845643468,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.46925359864393046
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6883302282335562,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2158060683529406
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9474711847589021,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5454139083425392
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945702,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705652
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336105
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        185
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7565135490171708,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26150715169931726
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6479165945777888,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19323644607791643
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7034384701070893,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22500420757198833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6351688513903535,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1866526380703783
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6479165945777888,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1932364460779164
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6834618555135057,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2129369095846406
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731185,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2426566350119877
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7607799693978191,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26477948321987693
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7141837373713069,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23183588224266183
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697684,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.062302874815067376
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7530541009528026,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2588955894618504
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6521128218513289,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1954559191852119
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121676,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813221
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9291936363073532,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.49014175698479584
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6351688513903535,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1866526380703783
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7669349092608788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2696046197896717
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6356730167852032,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18690862444520198
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909205
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697683,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.06230287481506734
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6064347408519472,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1726188503980955
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.57148518192823,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15686978085177844
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2176207235501808,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208323
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9030165873308197,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.43190705173436883
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7147088289884844,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2321762770024902
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9365095739076293,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5103300683111531
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.578485115633488,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15991862422580078
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5804107553890054,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16076622532015555
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7422762925054622,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.25098780506439666
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7204304390448599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23592650089860737
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6883302282335562,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2158060683529406
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6064347408519474,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1726188503980956
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9311961645454739,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4954525180243551
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7482932064923391,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2553607552172762
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7783453398239122,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2788967409763574
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7669349092608788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2696046197896717
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.758549680621658,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2630616446351392
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963575999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17614595989478954
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5556379902484873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1501475636563056
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9034757055466485,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.43278545217175685
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924018
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7147088289884844,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23217627700249024
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5196595496547308,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.13573553592008397
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5804107553890054,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16076622532015555
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        898
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1536416470071776
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8988944569716211,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4242017503412745
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7295488909548519,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24206479036663547
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.40663383529037367,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09661822303895815
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5784851156334881,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1599186242258008
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083744
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7237443627563002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23813386966157443
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9989194125622255,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.264363951402434
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.800789699467843,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2986592526482623
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439669404212753
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7798040920805684,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28011902791938825
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718527,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.042635794089723594
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7963700786850925,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29459729792934986
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9719612134639288,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6616224831680177
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668055
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593766,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17549826199186966
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6955079406445788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22011903777218625
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9414941564690547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.525465317015451
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924018
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8915996725696932,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4113056817223609
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9477441055634863,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5463781928336979
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1536416470071776
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.498910975770825,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12790738226917076
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7111353120572083,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2298719870693088
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7179418270686835,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23428599817815496
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8851344176520137,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4005818461965711
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5196595496547308,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.13573553592008397
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8502968388221241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.35154709110793403
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21324694627398846
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254985,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569805
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9235748349127437,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.476005992446201
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9974357924755014,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.10440007328256
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7889065685624798,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28793388084255067
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7141837373713067,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23183588224266174
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6428766871546964,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19060543606809152
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9676292581813438,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6350280903755489
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.498910975770825,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12790738226917076
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        246
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        294
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225617,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.215950410631913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225617,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.215950410631913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21324694627398846
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9118530071228875,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.44959160901077794
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6428766871546964,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19060543606809152
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6955079406445788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22011903777218625
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913187,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909209
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569802
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945702,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705652
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6566112147054599,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19786514510083744
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7738399734169107,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2751718642133907
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718494,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972351
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8259369984951499,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32363901053969973
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9974357924755014,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.10440007328256
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7963700786850925,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29459729792934986
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924018
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6466644411034421,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1925792781511417
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7399457913524814,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24932142445642264
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569802
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6428766871546964,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19060543606809152
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225617,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.215950410631913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8891725137766194,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.40720660776025197
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7702878273290588,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2722870226175689
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121677,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813223
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8164225896699431,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3137874919699275
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9966539502967398,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.055135932288868
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7237443627563002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23813386966157443
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7179418270686835,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23428599817815496
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8981001104080512,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4227530783991681
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986734,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389404
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8813065097043832,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3945135173826525
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7963017975675774,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29453523651066643
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5196595496547308,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.13573553592008397
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717756
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.758549680621658,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2630616446351392
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1115923999840983
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6125092570593766,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17549826199186963
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697683,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.06230287481506734
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.800789699467843,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2986592526482624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9114156670130271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4486754473112346
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9713995888295488,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6579512771066172
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6356730167852032,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18690862444520198
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5556379902484873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1501475636563056
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6145802279831596,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17649026113398317
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.49891097577082477,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1279073822691707
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7214142733834007,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23657907953852939
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6080554082421934,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17338270085988658
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7783453398239122,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2788967409763574
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225615,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2159504106319129
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6321205588285577,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18511238474544775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6521128218513289,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1954559191852119
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225617,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.215950410631913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9857941424421501,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.7874867616873535
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668051
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6428766871546963,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19060543606809144
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924018
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8259369984951499,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32363901053969973
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8657915547245691,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3717725174467397
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5950175094604699,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.16732520337626447
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9550020146204826,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5740589690734691
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8209841109455986,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3184452649213992
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6885731595225617,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.215950410631913
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121676,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813221
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9424501790062267,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5285151572040742
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770271,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692316
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21324694627398846
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7214142733833999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23657907953852897
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9983131577350398,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.1819235063421214
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7554286193410519,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.260684158039893
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9725120173137285,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.6652950886536599
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6834618555135055,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21293690958464054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7798040920805684,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.28011902791938825
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7399457913524814,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24932142445642264
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909205
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685974,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336097
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7214142733834007,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23657907953852939
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7664523791944405,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26922176556843036
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7279454540939558,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24097054597416365
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731187,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24265663501198775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.2857825679697684,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.062302874815067376
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8243303479666197,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3219382085126634
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21324694627398846
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36912508374993114,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944713
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.40663383529037367,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09661822303895815
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.661081746806127,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828558
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7130671714712558,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2311141336043242
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9238035536341997,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4765608116393201
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061267,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828556
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731187,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24265663501198775
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8935710239208653,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4147030934083518
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5474597773755412,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14677165401574488
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9071426427451149,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.43995489369220847
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36912508374993114,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944713
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.60134554218025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17024050347818412
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7806749256944959,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.280852564221186
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4653821340165547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11591794112133091
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049371,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708184
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7554286193410518,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26068415803989287
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718538,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972362
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.498910975770825,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12790738226917076
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6838755038055905,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2131789704486179
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36912508374993114,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944713
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545791,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924023
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9872063310885602,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.8068687598151174
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594525,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668041
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9931538925075966,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.9226140159431763
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7239629619674195,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23828040581966
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717756
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21324694627398846
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.823944865806775,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.32153245064031116
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9991481049442206,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.3083830750343253
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7482932064923391,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2553607552172762
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9326054209071362,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.49928340132920496
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8666360748063513,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.37294103604337825
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545791,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924023
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185654,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7295488909548522,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2420647903666356
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7034384701070893,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22500420757198833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1439034844069231
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121678,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813226
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049372,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708187
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5784851156334881,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1599186242258008
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9196398991155288,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.46671228310429286
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8463794369918063,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3467654017197731
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3636176538121676,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08366260168813222
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9001386707639769,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4264938925479769
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7141837373713069,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23183588224266183
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7664523791944405,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.26922176556843036
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8433412264431958,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.34314009826262476
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3691250837499309,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08527158817944708
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5650964740986735,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15413031965389407
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5556379902484873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1501475636563056
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8930501019485275,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.4137992616627754
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8342049980057555,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.33264754432683
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.87218285624776,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3808047939569608
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.402074222254579,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0952011984892402
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8614867129267796,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3659281300768535
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6610817468061267,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20029092309828547
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5405509479414281,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14396694042127534
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8895647684862453,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.40786294319296523
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185654,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7140263056368434,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23173394773268596
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6064347408519472,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1726188503980955
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7237443627563002,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23813386966157446
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8762269019294456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3867562761549252
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913187,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909209
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5376498812254984,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14280177306569802
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8492382280344597,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3502426941107968
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6138626963575999,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17614595989478954
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7910061164372848,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2897842368813655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545791,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924023
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9365095739076293,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.5103300683111531
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.929831857536702,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.49181785380722853
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6064347408519475,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.17261885039809563
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7304122012731185,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2426566350119877
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.21762072355018025,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04542947581208312
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6521128218513288,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.19545591918521188
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6964246457891635,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22067717853156563
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7669349092608788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2696046197896717
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7669349092608788,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2696046197896717
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5403934230770269,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14390348440692313
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8209841109455986,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3184452649213992
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7366931549685976,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.24702048507336102
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5474597773755414,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.14677165401574493
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8762269019294456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3867562761549252
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        637
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4784115167049372,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12048527298708187
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6606441378778722,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.20005206142951237
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540873,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717756
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6424847643075334,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1904023969784804
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4066338352903739,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.0966182230389582
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48989345978414134,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12460574963013467
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8222155531416488,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3197230445856453
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6839915677770241,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21324694627398846
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7005092948384221,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.22318479996819662
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7692730517621041,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.27147107184016805
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185654,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7295488909548522,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2420647903666356
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185654,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416624
+    },
+    {
+      "is_near_duplicate_issue": true,
+      "near_duplicate_score": 0.0,
+      "near_duplicate_sets": [
+        168
+      ],
+      "distance_to_nearest_neighbor": 0.0
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7168761428517767,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.23358791660419392
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668053
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.770287827329059,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.27228702261756893
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9196398991155288,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.46671228310429286
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4020742222545792,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09520119848924026
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.45274256043286354,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.11159239998409833
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.38788266778185654,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.09085895162416624
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.8380732136905896,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.33701764062090667
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4868656657059456,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668054
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.36860910853913176,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.08512025173909206
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.831354190133691,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.3294916338821517
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.5639468685540874,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.15364164700717764
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.4185235845945703,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.10036513352705655
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.557595016306641,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.1509646223683671
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.7963017975675774,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.29453523651066643
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6925186275727706,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.21831058255528232
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.48686566570594547,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.12351024253668051
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.625312371598143,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.18171790324833248
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9981679719930646,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 1.1666396551120959
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.9931538925075966,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.9226140159431763
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.6838755038055905,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.2131789704486179
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.3221732875885077,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.07198347021063767
+    },
+    {
+      "is_near_duplicate_issue": false,
+      "near_duplicate_score": 0.20572365246718516,
+      "near_duplicate_sets": [],
+      "distance_to_nearest_neighbor": 0.04263579408972357
+    }
+  ]
+}

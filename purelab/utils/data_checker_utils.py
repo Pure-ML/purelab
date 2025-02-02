@@ -6,6 +6,27 @@ from sklearn.ensemble import HistGradientBoostingClassifier, HistGradientBoostin
 from sklearn.neighbors import NearestNeighbors
 import json
 import os
+from datetime import datetime
+from typing import Dict, List, Optional, Union
+
+ISSUE_TYPE_MAPPING = {
+    'label': {
+        'classification': 'label_classification',
+        'regression': 'label_regression'
+    },
+    'outlier': {
+        'classification': 'outlier_classification',
+        'regression': 'outlier_regression'
+    },
+    'duplicate': {
+        'classification': 'duplicate_classification',
+        'regression': 'duplicate_regression'
+    },
+    'non_iid': {
+        'classification': 'non_iid_classification',
+        'regression': 'non_iid_regression'
+    }
+}
 
 def get_feature_columns(df, label_column):
     """Let user select feature columns and automatically detect their types."""
@@ -154,86 +175,57 @@ def load_data(task='classification'):
     
     return df, label_column 
 
-def save_results_to_json(results, dataset_name, output_path=None, issue_type=""):
+def save_results_to_json(results: Dict, 
+                        dataset_name: str, 
+                        output_path: Optional[str] = None,
+                        issue_type: str = None) -> None:
     """Save analysis results to a JSON file."""
+    if output_path is None:
+        os.makedirs('results', exist_ok=True)
+        os.makedirs(f'results/{dataset_name}', exist_ok=True)
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        output_path = f'results/{dataset_name}/{issue_type}_{timestamp}.json'
+    
     try:
-        if output_path is None:
-            # Create results directory if it doesn't exist
-            results_dir = "results"
-            if not os.path.exists(results_dir):
-                os.makedirs(results_dir)
-            
-            # Create subdirectory for this dataset if it doesn't exist
-            dataset_dir = os.path.join(results_dir, dataset_name)
-            if not os.path.exists(dataset_dir):
-                os.makedirs(dataset_dir)
-            
-            # Generate filename with timestamp
-            timestamp = pd.Timestamp.now().strftime("%Y%m%d_%H%M%S")
-            output_path = os.path.join(dataset_dir, f"{issue_type}_{timestamp}.json")
-        
-        # Map issue types to their Cleanlab column names
-        issue_type_mapping = {
-            "label_classification": "label",
-            "label_regression": "label",
-            "outlier_classification": "outlier",
-            "outlier_regression": "outlier",
-            "duplicate_classification": "near_duplicate",
-            "duplicate_regression": "near_duplicate",
-            "non_iid_classification": "non_iid",
-            "non_iid_regression": "non_iid"
+        # Convert DataFrame to records if needed
+        if hasattr(results, 'to_dict'):
+            issues = results.to_dict('records')
+        else:
+            issues = results
+
+        # Convert numpy types to native Python types
+        def convert_numpy(obj):
+            if isinstance(obj, (np.int_, np.intc, np.intp, np.int8,
+                np.int16, np.int32, np.int64, np.uint8,
+                np.uint16, np.uint32, np.uint64)):
+                return int(obj)
+            elif isinstance(obj, (np.float_, np.float16, np.float32, np.float64)):
+                return float(obj)
+            elif isinstance(obj, (np.ndarray,)):
+                return obj.tolist()
+            elif isinstance(obj, dict):
+                return {k: convert_numpy(v) for k, v in obj.items()}
+            elif isinstance(obj, list):
+                return [convert_numpy(i) for i in obj]
+            return obj
+
+        # Convert results to serializable format
+        serializable_results = {
+            'timestamp': datetime.now().isoformat(),
+            'dataset_name': dataset_name,
+            'issue_type': issue_type,
+            'issues': convert_numpy(issues)
         }
         
-        base_issue_type = issue_type_mapping.get(issue_type, issue_type.split('_')[0])
-        issue_column = f"is_{base_issue_type}_issue"
-        score_column = f"{base_issue_type}_score"
-        
-        # Convert results to JSON-serializable format
-        json_results = {
-            "metadata": {
-                "timestamp": pd.Timestamp.now().isoformat(),
-                "dataset": dataset_name,
-                "issue_type": issue_type
-            },
-            "summary": {
-                "total_issues": len(results[results[issue_column]])
-            },
-            "issues": []
-        }
-        
-        # Add detailed issue information
-        for idx in results[results[issue_column]].index:
-            # Get the row data
-            row_data = results.loc[idx].to_dict()
-            
-            # Convert any numpy or pandas types to Python native types
-            row_data = {k: convert_to_serializable(v) for k, v in row_data.items()}
-            
-            # Create the issue data dictionary
-            issue_data = {
-                "index": int(idx),
-                f"{base_issue_type}_score": float(results.loc[idx, score_column]),
-                "row_data": row_data
-            }
-            
-            # Add near_duplicate_sets for duplicate issues
-            if base_issue_type == "near_duplicate" and "near_duplicate_sets" in results.columns:
-                sets = results.loc[idx, "near_duplicate_sets"]
-                if isinstance(sets, list):
-                    issue_data["near_duplicate_sets"] = [int(x) for x in sets]
-            
-            json_results["issues"].append(issue_data)
-        
-        # Create directory if it doesn't exist
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        
-        # Save to file
+        # Save to JSON
         with open(output_path, 'w') as f:
-            json.dump(json_results, f, indent=2)
-        print(f"\nResults saved to: {output_path}")
+            json.dump(serializable_results, f, indent=2)
+        print(f"Results saved to: {output_path}")
         
     except Exception as e:
-        print(f"\nError saving results to JSON: {str(e)}")
+        print(f"Error saving results: {str(e)}")
+        import traceback
+        traceback.print_exc()
 
 def convert_to_serializable(obj):
     """Convert numpy/pandas types to Python native types for JSON serialization."""

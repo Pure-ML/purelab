@@ -147,6 +147,63 @@ Identifies violations of the IID assumption.
 - Provides consistent interface across all checkers
 - Supports both classification and regression tasks with task-specific adaptations
 
+
+## Dataset Cleaning
+
+After analyzing your dataset for various issues, you can clean the dataset using the saved results:
+
+```bash
+python -m purelab.clean_dataset \
+--input data/your_dataset.csv \
+--results-dir results/your_dataset \
+--output data/your_dataset_cleaned.csv \
+--task [classification|regression] \
+--label-column your_label_column
+```
+
+### Arguments:
+- `--input`: Path to your original dataset CSV file
+- `--results-dir`: Directory containing the JSON results from previous analysis
+- `--output`: Path where the cleaned dataset should be saved
+- `--task`: Either 'classification' or 'regression'
+- `--label-column`: Name of the column containing your labels/target values
+
+### Cleaning Process:
+1. Applies label corrections based on predicted labels
+2. Removes identified outliers
+3. Removes duplicate entries (keeping first instance)
+4. Removes non-IID samples
+5. Saves the cleaned dataset to CSV
+6. Generates a detailed changes log
+
+### Example:
+```bash
+For classification tasks
+python -m purelab.clean_dataset \
+--input data/grades.csv \
+--results-dir results/grades \
+--output data/grades_cleaned.csv \
+--task classification \
+--label-column letter_grade
+For regression tasks
+python -m purelab.clean_dataset \
+--input data/cars.csv \
+--results-dir results/cars \
+--output data/cars_cleaned.csv \
+--task regression \
+--label-column price
+```
+
+### Outputs:
+- Cleaned dataset saved as CSV
+- Changes log file (same name as output with '_changes.txt' suffix) containing:
+  - Number of label corrections applied
+  - Number of outliers removed
+  - Number of duplicates removed
+  - Number of non-IID samples removed
+  - Total rows removed
+  - Original and final row counts
+
 ## Requirements
 - Python 3.7+
 - cleanlab
