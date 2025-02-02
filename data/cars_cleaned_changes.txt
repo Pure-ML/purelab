@@ -112,13 +112,19 @@ Corrected label at index 998: 220000.0 -> 99615.4966704467
 Applied 107 label corrections
 Loaded results from results/cars/outlier_regression_20250202_005543.json
 No outliers to remove
-Loaded results from results/cars/duplicate_regression_20250202_005607.json
+Loaded results from results/cars/duplicate_regression_20250202_015409.json
+Found duplicate pair: keeping 702, removing 723
+Found duplicate pair: keeping 45, removing 426
+Found duplicate pair: keeping 520, removing 980
+Found duplicate pair: keeping 223, removing 878
+Removed 4 duplicate entries
+Removed 4 total duplicate entries
 Loaded results from results/cars/non_iid_regression_20250202_005632.json
 No non-IID samples to remove
 
 Cleaning complete:
 Original rows: 1001
-Final rows: 1001
-Rows removed: 0
+Final rows: 997
+Rows removed: 4
 
 Cleaned dataset saved to: data/cars_cleaned.csv
